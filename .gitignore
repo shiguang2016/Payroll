@@ -1,0 +1,16 @@
+# Eclipse 编译输出
+bin/
+*.class
+
+# Eclipse 本地元数据
+.metadata/
+*.log
+.local/
+
+# WorkBuddy 本地会话记录
+.workbuddy/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
